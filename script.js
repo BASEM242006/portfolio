@@ -148,10 +148,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const typingElement = document.getElementById('typing-text');
   if (typingElement) {
     new TypingAnimation(typingElement, [
-      'Computer Science Student 💻',
+      'Computer Science Student at MTI University 🎓',
       'C++ Developer ⚡',
       'Java Developer ☕',
-      'OOP Enthusiast 🎯',
+      'OOP Developer 🎯',
       'Problem Solver 🧩',
     ]);
   }
